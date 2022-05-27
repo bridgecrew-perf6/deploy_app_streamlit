@@ -1,6 +1,0 @@
-pandas==1.4.2
-logging
-random
-streamlit==1.9.0
-plotly==4.14.3
-Pillow==8.1.2
